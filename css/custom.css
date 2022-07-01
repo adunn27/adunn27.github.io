@@ -2,3 +2,8 @@
     bottom: 0;
     position: absolute;
 }
+
+.sidebar-portrait {
+    width: 50%;
+    padding-bottom: 25px;
+}
