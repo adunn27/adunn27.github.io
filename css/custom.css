@@ -13,3 +13,9 @@
     width: 50%;
     padding-bottom: 25px;
 }
+
+/* Fix for portfolio tile images to ensure they fill container and are centered */
+.box-masonry img {
+    object-fit: cover;
+    width: 100%;
+}
